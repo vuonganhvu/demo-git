@@ -1,1 +1,2 @@
 Demo rebase file B
+commit 4
